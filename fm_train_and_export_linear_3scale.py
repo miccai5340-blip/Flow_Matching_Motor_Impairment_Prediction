@@ -7,13 +7,14 @@ For each CV under Dataset_CrossValidation (CV1, CV2, ...).
 INPUT:  /content/drive/MyDrive/MICCAI/Dataset_CrossValidation/CV1, CV2, ...
         Each CV: Train/0|1/{AD,MD,RD,FA,WM,GM,MRI}/, Test/0|1/{...}/
 
-OUTPUT: /content/drive/MyDrive/Kali_MICCAI/flow_matching_velocity_speed_t0.80/
+OUTPUT: /content/drive/MyDrive/MICCAI/flow_matching_velocity_speed_t0.80/
         CV1/AD/checkpoints/, vel_t0.80/, speed_t0.80/
         CV1/MD/, RD/, FA/, WM/, GM/, MRI/
         CV2/...
         ...
 
 Author: Miccai_5340
+Code written with assistance from Cursor AI.
 Code written with assistance from Cursor AI.
 """
 
